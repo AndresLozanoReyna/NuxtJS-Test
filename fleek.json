@@ -1,0 +1,6 @@
+{
+  "id": "cle86whth0000mr085sb782u1",
+  "name": "nuxtjs-test",
+  "distDir": ".output",
+  "buildCommand": "npm run build"
+}
